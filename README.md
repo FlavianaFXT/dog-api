@@ -1,4 +1,4 @@
-#DOG-API 
+# DOG-API 
 
 Exercício de Sala 🏫  da Semana 10 do curso de Frontend da Reprograma, onde exercitamos a Requisição `GET` no Javascript à [Dog API](https://dog.ceo/dog-api/) utilizando `XMLHttpRequest()` e `fetch()` para trazer imagens de doguinhos de acordo com suas raças através do <b style="color: greenyellow;">endpoint</b>: https://dog.ceo/api/breed/${dogName}/images/random e exibir a imagem na tela a cada atualização da página.
 Para os demais métodos (Requisições `POST`, `PUT`, `PATCH` e `DELETE`) utilizamos o método `fetch()` para a [ReqRes API](https://reqres.in/) utilizando seus endpoints específicos.
